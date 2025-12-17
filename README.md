@@ -1,0 +1,1 @@
+Description: Built a console-based Password Vault system to securely store and manage website credentials using Core Java, object-oriented programming, and basic encryption techniques. Implemented master password protection and file handling for offline data storage and retrieval.
